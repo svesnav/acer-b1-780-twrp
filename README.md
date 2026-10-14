@@ -34,3 +34,5 @@ The device tree is in `device/acer/acer_barricadewifi`. The scripts in `scripts/
 - MTP: hardware dependent; ADB transfer is recommended
 
 This is an unofficial community build. Keep a copy of the stock recovery and your full backup before flashing.
+
+The tested LineageOS 13 port is published separately in [svesnav/acer-b1-780-lineageos-13](https://github.com/svesnav/acer-b1-780-lineageos-13).
